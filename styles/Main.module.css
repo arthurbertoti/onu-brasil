@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.card {
+  width: 200px;
+  height: 170px;
+}
+.image {
+  width: 100%;
+  height: 100%;
+}

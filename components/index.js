@@ -1,6 +1,6 @@
-import Header from '../components/Header'
-import Main from '../components/Main'
-import Menu from '../components/Menu'
-import Footer from '../components/Footer'
+import Header from './Header'
+import Main from './Main'
+import Menu from './Menu'
+import Footer from './Footer'
 
 export { Footer, Header, Menu, Main }
